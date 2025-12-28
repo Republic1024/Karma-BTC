@@ -1,20 +1,24 @@
-# Project Karma: A Macro-Micro Resonance Framework for Bitcoin
+# Karma-BTC: The Sentiment Resonance Engine
 
-![Python](https://img.shields.io/badge/Python-3.10%2B-blue)
-![Polars](https://img.shields.io/badge/Data-Polars-orange)
-![Status](https://img.shields.io/badge/Status-God%20Mode-purple)
-![License](https://img.shields.io/badge/License-MIT-green)
+![Python](https://img.shields.io/badge/Python-3.10%2B-blue)![Polars](https://img.shields.io/badge/Data-Polars-orange)![Status](https://img.shields.io/badge/Status-God%20Mode-purple)![License](https://img.shields.io/badge/License-MIT-green)
+
+
+> **"In the market, Sentiment is the Seed; Alpha is the Karma."**
 
 > **"Quantity becomes Quality."** — Processing 16.8 Million Tweets to challenge the Efficient Market Hypothesis.
 
 ## 📖 Executive Summary
 
-**Project Karma** is a quantitative trading engine evolved to solve the "Quantitative Impossible Trinity" (High Return, Low Drawdown, High Capacity) in the cryptocurrency market. 
+**Project Karma** is a structural quantitative framework engineered to navigate the "Quantitative Impossible Trinity" (High Return, Low Drawdown, High Capacity) within the volatile Bitcoin ecosystem.
 
-Unlike traditional approaches that dismiss retail sentiment as noise, this engine distills a high-fidelity **"Viral Sentiment"** factor using a RoBERTa-based Transformer pipeline. It fuses two distinct market logics:
+The core axiom of the project is that **market price is the 'Karma' (result), while collective human sentiment is the 'Seed' (cause).** Unlike traditional models that dismiss retail sentiment as chaotic noise, this engine utilizes a **RoBERTa-based Transformer pipeline** to distill 16.8 million data points into a high-fidelity "Viral Sentiment" factor.
 
-1.  **The Micro-Stoic (High Frequency):** Exploiting short-term sentiment momentum using NLP-derived signals.
-2.  **The Macro-God (Low Frequency):** Enforcing a Regime Shift filter (`MA60`/`MA100`) to enable aggressive leverage during confirmed bull runs while deploying a **"Hybrid Sentiment Fuse"** to survive catastrophic crashes.
+The architecture achieves **Antifragility** by synchronizing two distinct market dimensions:
+
+- **The Micro-Stoic (Precision):** A high-frequency sentiment pulse-checker that exploits short-term momentum. It remains indifferent to market panic, capturing alpha where others see only chaos.
+- **The Macro-God (Providence):** A low-frequency regime-shift filter ($MA_{60} / MA_{100}$). It acts as the "Divine Hand," authorizing aggressive leverage during confirmed secular bull runs while deploying a **"Hybrid Sentiment Fuse"** to vanish into cash before systemic collapses.
+
+By aligning **Macro-Regime Awareness** with **Micro-Psychological Resonance**, Project Karma transforms raw social entropy into a disciplined, 1,173x alpha-generating engine.
 
 ![Karma_Final_Verdict](./assets/Karma_Final_Verdict.svg)
 
